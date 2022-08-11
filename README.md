@@ -1,12 +1,25 @@
 # Capstone-Project-Power-BI-FIFA-WORLD-CUP-DATA-2002-2018
 # Data Sourcing 
 WC 2002 dataset https://drive.google.com/file/d/1W60MXd03tA24nb8hdHKWcx4UfB3DlNwe/view?usp=sharing
+
 WC 2006 dataset https://drive.google.com/file/d/1K9OoKZ6nx6pyCznd8loAk_wFOq3-HEiQ/view?usp=sharing
+
 WC 2010 dataset https://drive.google.com/file/d/1CyhuUOO2Or0t9oE_Rg1UAGtodbGYCXiJ/view?usp=sharing
+
 WC 2014 dataset https://drive.google.com/file/d/12p37Jq4jzH-hu27dESkbTOiBCMrhknrR/view?usp=sharing
+
 WC 2018 dataset https://drive.google.com/file/d/18FATfFM6xyFl2tRqGXZYZ_W2iRQSCFDu/view?usp=sharing
 
-# FIFA - Football World Cup Case Study
+# Transformation
+Downloading the dataset from the dataset online. CSV file and export it into the PowerBI.
+Tranferring the file into the Power Query Editor for transformation and verifying the data types and columns. Adjusting the columns and data data types where necessary. Appemding all the similar tables together inorder to have a complete table of the world cup dataset from 2002-2018.
+After transformation, I closed and applied and created a rolling calender using DAX function from the data view.
+
+I navigated to the model view and crested relationships with the data linking the facts tables to the dimension table. 
+
+Having modelled the data, I created measures with DAX and created my Dashboard. Joining several tiles together, measures and using slicers to navigate and filter through the dashboard.
+
+# The Story: FIFA - Football World Cup Case Study
 The FIFA World Cup, often simply called the World Cup, is an
 international association football competition contested by the
 senior men's national teams of the members of the Fédération
