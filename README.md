@@ -1,4 +1,11 @@
 # Capstone-Project-Power-BI-FIFA-WORLD-CUP-DATA-2002-2018
+# Data Sourcing 
+WC 2002 dataset https://drive.google.com/file/d/1W60MXd03tA24nb8hdHKWcx4UfB3DlNwe/view?usp=sharing
+WC 2006 dataset https://drive.google.com/file/d/1K9OoKZ6nx6pyCznd8loAk_wFOq3-HEiQ/view?usp=sharing
+WC 2010 dataset https://drive.google.com/file/d/1CyhuUOO2Or0t9oE_Rg1UAGtodbGYCXiJ/view?usp=sharing
+WC 2014 dataset https://drive.google.com/file/d/12p37Jq4jzH-hu27dESkbTOiBCMrhknrR/view?usp=sharing
+WC 2018 dataset https://drive.google.com/file/d/18FATfFM6xyFl2tRqGXZYZ_W2iRQSCFDu/view?usp=sharing
+
 # FIFA - Football World Cup Case Study
 The FIFA World Cup, often simply called the World Cup, is an
 international association football competition contested by the
