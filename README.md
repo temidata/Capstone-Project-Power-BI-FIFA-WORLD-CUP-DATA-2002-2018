@@ -19,7 +19,7 @@ I navigated to the model view and crested relationships with the data linking th
 
 Having modelled the data, I created measures with DAX and created my Dashboard. Joining several tiles together, measures and using slicers to navigate and filter through the dashboard.
 
-# The Story: FIFA - Football World Cup Case Study
+# The Story: FIFA - Football World Cup Case Study ( Year 2002 -2018)
 The FIFA World Cup, often simply called the World Cup, is an
 international association football competition contested by the
 senior men's national teams of the members of the Fédération
