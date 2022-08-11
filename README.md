@@ -112,3 +112,7 @@ Finally, in 2018 France won the FIFA world cup. Out of the 7 games played, they 
 lost 1 of the game with a total of 19 points and 16 goals scored. Egypt, England, and Panama had the
 most loss matches.
 
+# Go To File: Go to the Go To File to see the finish file while downloading the data in the link in the data sourcing is the raw file
+Displays the finish dashboard in pdf format and phix
+
+
